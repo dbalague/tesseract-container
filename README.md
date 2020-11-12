@@ -20,4 +20,4 @@ This will share your local directory with the files you want to scan with tesser
 
 # References
 
-![Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+[Tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
